@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Blog 1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www.github.com/Smuggles/blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Jordan Cruz",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-env": "^1.2.0",
+    "webpack": "^2.2.1"
+  }
+}
